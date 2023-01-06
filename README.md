@@ -1,6 +1,9 @@
 <p align='center'>
   LAF LEARN VUE
+  <a href="https://github.com/GodlessLiu/vue3-template/blob/master/README.zh-CN.md">简体中文</a>
+  <a href="https://github.com/GodlessLiu/vue3-template/blob/master/README.md">English</a>
 </p>
+
 <br />
 
 ## Features
